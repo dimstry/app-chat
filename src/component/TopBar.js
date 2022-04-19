@@ -9,7 +9,7 @@ class TopBar extends React.Component {
           <Container>
             <Navbar.Brand href="#home">Home</Navbar.Brand>
             <Nav className="me-auto">
-              <Nav.Link href="#home">Pesan</Nav.Link>
+              <Nav.Link href="pages/pesan">Pesan</Nav.Link>
               <Nav.Link href="#features">Status</Nav.Link>
               <Nav.Link href="#pricing">Panggilan</Nav.Link>
             </Nav>
